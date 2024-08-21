@@ -1,0 +1,17 @@
+{
+  "name": "algorithm-utils-abhinavrajput",
+  "version": "1.0.0",
+  "description": "A collection of useful algorithms including binary search",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "algorithm",
+    "binary search",
+    "search",
+    "npm"
+  ],
+  "author": "Abhinav Rajput",
+  "license": "MIT"
+}
